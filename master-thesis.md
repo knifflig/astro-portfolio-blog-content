@@ -16,13 +16,13 @@ description:
 
 Hello everyone,
 
-I have some exciting news to share with you! I've just got my Master's thesis back and it's been awarded a top grade of 1.0. To say that I'm thrilled would be an understatement.
+I wanted to share an update regarding my studies: I've received feedback on my Master's thesis, and I'm grateful to say it has been graded as 1.0. It's indeed a satisfying moment, especially after the efforts and time invested.
 
-First of all, a huge thanks to my professor, whose guidance was indispensable. Not to mention the dynamic interactions and brainstorming sessions with my seminar colleagues. These engagements added layers of depth and understanding to my work. This thesis wasn't just about putting in long hours (although there were plenty of those!). It was also about the joy of exploration, diving deep into a topic and coming up with new insights. Believe it or not, I had a lot of fun working on it.
+A heartfelt acknowledgment to my professor; the guidance I received was invaluable. Equally enriching were the interactions and exchanges with my seminar peers. It was more than just the hours committed—it was about delving deep into a subject, navigating its intricacies, and deriving insights. I genuinely enjoyed each step.
 
-The completion of this thesis marks the end of my undergraduate chapter. But the journey doesn't end here! I'm now excited to see what future projects I can contribute to. To mark this transition, I've decided to start writing about various topics that pique my interest. That's right! I've started a blog and will be posting regular updates about Mastodon. This platform will showcase numerous projects, large and small, that I've been working on over the past few years. It's a chance to share, learn and connect with like-minded people. Your support and feedback will be appreciated every step of the way.
+While this thesis concludes a significant phase of my journey, it by no means signifies the end. I find myself eager to delve into new projects and challenges. With this transition, I've decided to pen down my thoughts and explorations more consistently. I've set up a blog and intend to share updates, including some on Mastodon. Through this platform, I hope to discuss some of the smaller and bigger projects I've undertaken in recent times. I look forward to sharing, learning, and connecting with those interested. Your perspectives, should you wish to share, will always be welcome.
 
-To start with, you can read the abstract of my thesis below and find the full thesis [here](/thesis "Thesis").
+For those curious about the thesis, the abstract is available below, and the complete document can be accessed [here](/thesis "Thesis").
 
 Cheers!
 
