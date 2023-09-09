@@ -2,7 +2,7 @@
 title: Master Thesis graded 1,0
 author: Henry Zehe
 pubDatetime: 2023-09-09T20:20:31Z
-postSlug: society
+postSlug: thesis
 featured: false
 draft: false
 tags:
